@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = alexandre.mathieu1000@gmail.com
+	email = null
 	name = Alexandre Mathieu
